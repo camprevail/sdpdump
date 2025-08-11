@@ -3,3 +3,5 @@ sdpdump.egg-info
 venv
 build
 __pycache__
+dist
+*.sdp
